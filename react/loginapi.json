@@ -1,0 +1,26 @@
+{
+  "logindata":[
+    { 
+      "id":101,
+      "password":"sony",
+      "role":"admin"
+    },
+    {
+      "id":102,
+      "password":"jaishree",
+      "role":"user"
+    },
+    {
+      "id":103,
+      "password":"chitti",
+      "role":"admin"
+    },
+    {
+      "id":104,
+      "password":"kiran",
+      "role":"user"
+    }
+    
+  ]
+ 
+}
