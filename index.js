@@ -4,6 +4,8 @@ var deekshi = "sony"
 console.log(deekshi)
 console.log(deekshi)
 
+console.log("everything")
+
 console.log('nothing')
 console.log("anything")
 console.log(sony)
