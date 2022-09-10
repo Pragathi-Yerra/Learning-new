@@ -6,3 +6,5 @@ console.log(deekshi)
 
 console.log('nothing')
 console.log("anything")
+console.log(sony)
+console.log(chitti)
